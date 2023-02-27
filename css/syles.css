@@ -63,6 +63,11 @@ font-family: 'Montserrat-Light';
     transform: rotate(0);
     
   }
+   .card {
+
+   justify-content: center;
+    width: 20rem;
+  }
 }
 /* top section  */
 
